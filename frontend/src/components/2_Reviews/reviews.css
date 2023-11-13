@@ -1,0 +1,16 @@
+article .img img {
+  display: flex;
+  align-self: center;
+  justify-self: center;
+  max-width: 20%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+p {
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+.btns {
+  margin-bottom: 8px;
+}

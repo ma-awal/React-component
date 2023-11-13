@@ -1,0 +1,16 @@
+.List img {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  text-align: center;
+  border: 2px solid #ddd;
+}
+
+.birth_day {
+  background: #f9f9f9f9;
+}
+
+button.clear {
+  background: rgb(234, 97, 175) !important;
+  color: white !important;
+}

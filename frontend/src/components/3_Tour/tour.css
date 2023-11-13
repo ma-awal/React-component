@@ -1,0 +1,17 @@
+.row {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.single-tour {
+  text-transform: capitalize;
+  padding: 1rem;
+}
+p {
+  font-size: 14px;
+}
+.single-tour img {
+  max-width: 100%;
+  text-align: center;
+  margin: 0 auto;
+}
